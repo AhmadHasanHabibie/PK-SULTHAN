@@ -117,7 +117,7 @@ const galleryItems = [
     title: "Closingan Syawir 2025-2026",
     subtitle: "Dokumentasi Closingan Syawir 2025-2026",
     image: "assets/images/13_CLOSINGAN_SYAWIR_2025_2026.jpeg",
-    link: "https://drive.google.com/drive/folders/GOOGLE_DRIVE_LINK_13"
+    link: "https://drive.google.com/drive/folders/15GzVOufk59_RJIbUrLrXMSFDXwV4t7Zx"
   }
 ];
 
