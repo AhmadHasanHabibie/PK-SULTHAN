@@ -44,7 +44,7 @@ const galleryItems = [
     number: "04",
     title: "P5RA #2",
     subtitle: "Kegiatan P5RA Sesi 2",
-    image: "assets/images/4_P5RA_%232.jpeg",
+    image: "assets/images/4_P5RA_2.jpeg",
     link: "https://drive.google.com/drive/mobile/folders/1m_w99NYutFjRrciHn2eyrRrQ6xTSiZDd?fbclid=PAT01DUAT-hRtwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2lpgjHcbwmlHvQx6F7lKaLXGTbiHSzT2Y7CgBYBweGrbxE6gpb0P0ABNK4F_aem_tqA6CCbsN2_CdCjE8pGQ8w"
   },
   {
@@ -110,6 +110,14 @@ const galleryItems = [
     subtitle: "Peringatan Hari Kemerdekaan 17 Agustus",
     image: "assets/images/12_AGUSTUS_17AN.jpeg",
     link: "https://drive.google.com/drive/folders/11HuGqsheEr1yCSvhApa38anuQmm1hWGI"
+  },
+  {
+    id: 13,
+    number: "13",
+    title: "Closingan Syawir 2025-2026",
+    subtitle: "Dokumentasi Closingan Syawir 2025-2026",
+    image: "assets/images/13_CLOSINGAN_SYAWIR_2025_2026.jpeg",
+    link: "https://drive.google.com/drive/folders/GOOGLE_DRIVE_LINK_13"
   }
 ];
 
